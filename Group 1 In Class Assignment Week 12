@@ -1,0 +1,59 @@
+<ul><li>***Category name***
+
+<ul>
+
+<li>***Subcategory item***</li>
+
+<li>***Subcategory item***</li>
+
+<li>***Subcategory item***</li>
+
+<li>***Subcategory item***</li>
+
+<li>***Subcategory item***</li>
+
+...etc...
+
+</li></ul>
+
+If you have created child subcategories:
+
+Use the template code in the HTML document, and use it to replace one of your subcategory list- items.
+
+<ul><li>***Category name***
+
+<ul>
+
+<li>***Subcategory item***</li>
+
+<li>***Subcategory item***</li>
+
+<li>***Subcategory item***</li>
+
+<li>***Subcategory item***</li>
+
+<li class="sub-sub">***Subcategory item***
+
+<ul>
+
+</ul>
+
+<li>***Child subcategory item***</li>
+
+<li>***Child subcategory item***</li>
+
+<li>***Child subcategory item***</li>
+
+</li> ...this closes <li class=”sub-sub”>...
+
+ </li></ul>
+
+Add the affinity diagram photo to your website folder, and write the filename into the <a href=””> link where indicated:
+
+<footer>
+
+<p>&#169; ***Company name here*** <br/>
+
+<a href=”fileName.jpg”>Affinity diagram</a></p>
+
+</footer>
